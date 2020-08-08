@@ -9,6 +9,8 @@
  * @since Twenty Twenty 1.0
  */
 
+// changes on header file
+
 ?><!DOCTYPE html>
 
 <html class="no-js" <?php language_attributes(); ?>>
